@@ -1,0 +1,25 @@
+# Python
+crop_yield_env/
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+
+# Secrets
+.streamlit/secrets.toml
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large ML model
+model/xgb_model.pkl
+# CatBoost training logs
+catboost_info/

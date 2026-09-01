@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+requests
+streamlit
+plotly
+folium
+streamlit-folium
+xgboost
+scikit-learn
+shap
